@@ -1,0 +1,59 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "img": "./assets/img/c1.jpeg",
+      "title": "Santorini, Greece",
+      "price": 10
+    },
+    {
+      "id": 2,
+      "img": "./assets/img/c2.jpeg",
+      "title": "Vernazza, Italy",
+      "price": 9
+    },
+    {
+      "id": 4,
+      "img": "./assets/img/c4.jpeg",
+      "title": "Navagio, Greece",
+      "price": 12
+    },
+    {
+      "id": 5,
+      "img": "./assets/img/c5.jpeg",
+      "title": "Ao Nang, Thailand",
+      "price": 22
+    },
+    {
+      "id": 6,
+      "img": "./assets/img/c3.jpeg",
+      "title": "Phi Phi Islands, Thailand",
+      "price": "58"
+    },
+    {
+      "id": 7,
+      "img": "./assets/img/c4.jpeg",
+      "title": "Santorini, Greece",
+      "price": 44
+    },
+    {
+      "id": 8,
+      "img": "./assets/img/c5.jpeg",
+      "title": "Santorini, Greece",
+      "price": 15
+    },
+    {
+      "id": 9,
+      "img": "./assets/img/c6.jpeg",
+      "title": "Santorini, Greece",
+      "price": 35
+    },
+    {
+      "id": 10,
+      "img": "./assets/img/c6.jpeg",
+      "title": "Santorini, Greece",
+      "price": 25
+    }
+  ],
+  "favorite": []
+}
